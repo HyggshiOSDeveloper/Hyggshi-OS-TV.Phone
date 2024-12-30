@@ -10,10 +10,6 @@
 
 - **Integrated applications**: Including online TV, mini browser, messaging tools and more.
 
-- **In-game synchronization**: Supports connection and data synchronization between games or servers on Roblox.
-
-- **Exclusive technology**: Uses private modules and APIs developed by Hyggshi OS.
-
 ---
 
 ## Note
